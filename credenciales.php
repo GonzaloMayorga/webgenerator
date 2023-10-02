@@ -3,7 +3,7 @@
 	define('HOST', 'localhost');
 	define('USER', 'adm_webgenerator'); // Nro de carnet
 	define('PASS', 'webgenerator2020'); // clave de usuario
-	define('DB', webgenerator);
+	define('DB', 'webgenerator');
 
 	// Conecta con la base de datos con los datos de credencial
 	// ========================================================
